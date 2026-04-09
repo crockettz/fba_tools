@@ -1,7 +1,6 @@
 requires 'Config::IniFiles';
 requires 'Cpanel::JSON::XS';
 requires 'Data::Dumper::Concise';
-requires 'Devel::Cover';
 requires 'JSON::MaybeXS';
 requires 'JSON::MultiValueOrdered';
 requires 'Path::Tiny';
